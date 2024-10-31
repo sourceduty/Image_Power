@@ -10,11 +10,17 @@ To make its analysis clear and concise, "Image Power" rates images on a scale fr
 #
 ### Example Images
 
-The first image of the political leader at a rally is a powerful display of nationalist and authoritarian symbolism. The leader’s raised hands gesture, combined with the sea of red flags in the crowd, conveys a message of unity and allegiance, visually linking the leader with national pride. This type of composition elevates the leader’s role to that of a unifying, almost paternal figure. The image effectively uses mass participation and patriotic colors to strengthen the perception of the leader’s power. Rating: 8/10 ⚡.
+The first image of the political leader at a rally is a powerful display of nationalist and authoritarian symbolism. The leader’s raised hands gesture, combined with the sea of red flags in the crowd, conveys a message of unity and allegiance, visually linking the leader with national pride. This type of composition elevates the leader’s role to that of a unifying, almost paternal figure. The image effectively uses mass participation and patriotic colors to strengthen the perception of the leader’s power. 
 
-The second image, “Lunch atop a Skyscraper,” highlights the strength, courage, and camaraderie of the working class. With construction workers casually perched on a steel beam high above the city without safety equipment, the photo captures the rugged resilience of labor during the Great Depression. This iconic image celebrates the often overlooked yet essential role of workers in society’s development, showing the risks they take to build the very structures that support urban and economic growth. Rating: 9/10 ⚡.
+Rating: 8/10 ⚡.
 
-The Mona Lisa, in the third image, embodies a more subdued and enigmatic form of power. Her mysterious smile and direct gaze continue to intrigue viewers, reflecting the Renaissance ideals of individuality and humanism. The painting’s balanced composition and subtle color palette emphasize calmness, inviting interpretation and creating a timeless allure. As a symbol of intellectual and aesthetic influence, the Mona Lisa holds a prominent place in cultural history, resonating as an emblem of artistic mastery and depth. Rating: 10/10 ⚡.
+The second image, “Lunch atop a Skyscraper,” highlights the strength, courage, and camaraderie of the working class. With construction workers casually perched on a steel beam high above the city without safety equipment, the photo captures the rugged resilience of labor during the Great Depression. This iconic image celebrates the often overlooked yet essential role of workers in society’s development, showing the risks they take to build the very structures that support urban and economic growth. 
+
+Rating: 9/10 ⚡.
+
+The Mona Lisa, in the third image, embodies a more subdued and enigmatic form of power. Her mysterious smile and direct gaze continue to intrigue viewers, reflecting the Renaissance ideals of individuality and humanism. The painting’s balanced composition and subtle color palette emphasize calmness, inviting interpretation and creating a timeless allure. As a symbol of intellectual and aesthetic influence, the Mona Lisa holds a prominent place in cultural history, resonating as an emblem of artistic mastery and depth. 
+
+Rating: 10/10 ⚡.
 
 #
 ### Related Links
