@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ca52eac2-7329-4dc0-ba4c-4385baf49c3a)
+![Image Power](https://github.com/user-attachments/assets/2638a3eb-50e5-4ab5-90f6-f10b7a4805ad)
 
 > Evaluate images for social, political and financial power.
 #
