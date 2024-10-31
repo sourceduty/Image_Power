@@ -31,6 +31,8 @@ Rating: 10/10 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡.
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Text Power](https://github.com/sourceduty/Text_Power)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
