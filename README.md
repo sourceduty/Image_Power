@@ -23,6 +23,8 @@ The Mona Lisa, in the third image, embodies a more subdued and enigmatic form of
 Rating: 10/10 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡.
 
 #
+![Images](https://github.com/user-attachments/assets/0cbaea15-7197-4527-82a5-75653f1a1866)
+#
 ![Images](https://github.com/user-attachments/assets/12eac1c4-99a4-4847-9c3f-3abf5ef142a4)
 
 #
